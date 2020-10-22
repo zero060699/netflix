@@ -1,0 +1,8 @@
+[1015/004023.558:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1015/210123.005:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1015/221544.507:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1015/221544.788:ERROR:exception_snapshot_win.cc(100)] thread ID 3828 not found in process
+[1020/205623.726:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\builo\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\23cab471-b39c-4b4a-95e8-c90d45c9565d: The system cannot find the path specified. (0x3)
+[1020/205623.804:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1021/205908.355:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1022/201510.743:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
